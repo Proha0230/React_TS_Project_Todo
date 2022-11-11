@@ -11,3 +11,31 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.InputTodo{
+  padding: 1rem;
+}
+
+.App{
+  text-align: center;
+  margin-top: 10%;
+}
+
+.btnAddTodo{
+  padding: 1rem;
+  margin-left: 2%;
+}
+
+.TodoListUl{
+  font-size: 20px;
+}
+.TodoListX{
+  font-size: 20px;
+  cursor: pointer;
+  color: red;
+  margin-left: 2%;
+}
+
+.TodoListCheck{
+  margin-right: 2%;
+}
